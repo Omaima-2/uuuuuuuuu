@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553200450494",
+    "project_id": "final1-ebcc3",
+    "storage_bucket": "final1-ebcc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553200450494:android:162d754456b341c7aed7ef",
+        "android_client_info": {
+          "package_name": "com.mycompany.mitraqa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMkyNxE58fSbpbTPmiYE95PI4AA-AqoxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
